@@ -4,3 +4,4 @@ image/
 test*
 ~*
 .vscode/launch.json
+code/
