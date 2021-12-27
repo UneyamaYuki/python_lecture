@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="title.png" width="600px" oncontextmenu="return false;">
+  <img src="title.png" width="400px" oncontextmenu="return false;">
 </p>
 <p align="center">
 はじめ方が分かりません。どうもです。<br>
